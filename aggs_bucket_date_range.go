@@ -6,7 +6,7 @@ package aggretastic
 
 import (
 	"time"
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // DateRangeAggregation is a range aggregation that is dedicated for

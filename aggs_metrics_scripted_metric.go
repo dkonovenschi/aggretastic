@@ -4,7 +4,7 @@
 package aggretastic
 
 import (
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // ScriptedMetricAggregation is a a metric aggregation that executes using scripts to provide a metric output.

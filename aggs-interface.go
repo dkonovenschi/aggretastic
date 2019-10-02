@@ -12,7 +12,7 @@ package aggretastic
 
 import (
 	"fmt"
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 var (
