@@ -5,7 +5,7 @@
 package aggretastic
 
 import (
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // DiversifiedSamplerAggregation Like the ‘sampler` aggregation this is a filtering aggregation used to limit any

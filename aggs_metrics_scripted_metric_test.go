@@ -3,7 +3,7 @@ package aggretastic
 import (
 	"encoding/json"
 	"testing"
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 func TestScriptedMetricAggregation(t *testing.T) {

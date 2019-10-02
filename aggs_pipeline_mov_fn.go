@@ -5,7 +5,7 @@
 package aggretastic
 
 import (
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // MovFnAggregation, given an ordered series of data, will slice a window across

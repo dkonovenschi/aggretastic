@@ -5,7 +5,7 @@
 package aggretastic
 
 import (
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // FilterAggregation defines a single bucket of all the documents

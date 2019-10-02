@@ -6,7 +6,7 @@ package aggretastic
 
 import (
 	"time"
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // RangeAggregation is a multi-bucket value source based aggregation that

@@ -5,7 +5,7 @@
 package aggretastic
 
 import (
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v7"
 )
 
 // AdjacencyMatrixAggregation returning a form of adjacency matrix.
